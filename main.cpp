@@ -26,6 +26,10 @@ int main()
               << std::endl
               << std::endl; 
 
+    std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König"
+              << std::endl
+              << std::endl;
+
     /*
      * Zweites Kapitel
      */
@@ -39,6 +43,16 @@ int main()
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
+        << "Das Rotkaeppchen war ziemlich klein geraten, fast so wie ein großer Zwerg."
+        << std::endl
+        << std::endl;
+    std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." << std::endl;
+
+    std::cout
+         << "Rotkaeppchen ging in den Wald hinein."
+         << std::endl
+         << std::endl
+
     std::cout << "Dieses Mäntelchen war geschaffen aus der Haut des Hausdrachen der sieben Zwerge aus dem Gebirge."
               << std::endl
               << std::endl;
@@ -53,7 +67,7 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
-    std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung."
+    std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung, denn seine Untertanen waren sowieso schon sehr unzufrieden mit ihm."
               << std::endl;
     /*
      * Viertes Kapitel
@@ -73,7 +87,7 @@ int main()
               // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
     std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
-   std::cout << "Jeff ist ein ganz normaler Frosch" << std::endl;
+   std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem" << std::endl;
 
     /*
      * Fünftes Kapitel
