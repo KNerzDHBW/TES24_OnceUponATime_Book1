@@ -25,12 +25,7 @@ int main()
                  "und eine Königin, die sich sehnlichst wünschten, keine König und"
                  "Königin mehr zu sein."
               << std::endl
-              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
-                            // unter diesem Satz
-    std::cout << std::endl
-              << "Somit wurden sie zu Bauer und Bäuerin."
-              << std::endl
-              << std::endl; 
+              << std::endl;
 
     std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König."
               << std::endl
@@ -42,6 +37,10 @@ int main()
               << std::endl
               << std::endl;
 
+    std::cout << std::endl
+              << "Somit wurden sie zu Bauer und Bäuerin."
+              << std::endl
+              << std::endl; 
     /*
      * Zweites Kapitel
      */
