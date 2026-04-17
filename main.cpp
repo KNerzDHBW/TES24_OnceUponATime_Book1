@@ -113,13 +113,15 @@ int main()
     std::cout
         << "Die Maus dachte die Bratwurst wäre eine Sucuk." << std::endl;
   
-   std::cout
-          << "Sie waren beste Freunde und verbrachten ihre Tage damit, Abenteuer zu erleben und die Welt um sie herum zu erkunden."
+    std::cout
+        << "Sie waren beste Freunde und verbrachten ihre Tage damit, Abenteuer zu erleben und die Welt um sie herum zu erkunden."
         << std::endl;
   
-   std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
-                 "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
-              << std::endl;
-   std::cout << "Das Problem löst sich da sie gleich Mittagspause haben"
-              << std::endl;
+   std::cout 
+        << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
+           "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
+        << std::endl;
+   std::cout 
+        << "Das Problem löste sich, da sie gleich Mittagspause hatten."
+        << std::endl;
 }
