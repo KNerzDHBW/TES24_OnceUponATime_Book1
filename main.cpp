@@ -75,5 +75,5 @@ int main()
                       // unter diesem Satz
 
     std::cout
-        << "Die Maus dachte die Bratwurst wäre ein Sucuk." << std::endl
+        << "Die Maus dachte die Bratwurst wäre ein Sucuk." << std::endl;
 }
