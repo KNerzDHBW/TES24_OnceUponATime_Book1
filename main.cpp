@@ -107,4 +107,6 @@ int main()
    std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
                  "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
               << std::endl;
+   std::cout << "Das Problem löst sich da sie gleich Mittagspause haben"
+              << std::endl;
 }
