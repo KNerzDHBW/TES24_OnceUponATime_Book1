@@ -39,13 +39,9 @@ int main()
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
-    std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." << std::endl;
-
-    std::cout
-         << "Rotkaeppchen ging in den Wald hinein."
-         << std::endl
-         << std::endl
-
+    std::cout << "Dieses Mäntelchen war geschaffen aus der Haut des Hausdrachen der sieben Zwerge aus dem Gebirge."
+              << std::endl
+              << std::endl;
     /*
      * Drittes Kapitel
      */
