@@ -41,6 +41,11 @@ int main()
                       // diesem Satz
     std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." << std::endl;
 
+    std::cout
+         << "Rotkaeppchen ging in den Wald hinein."
+         << std::endl
+         << std::endl
+
     /*
      * Drittes Kapitel
      */
