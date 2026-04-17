@@ -36,6 +36,11 @@ int main()
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
 
+    std::cout
+         << "Rotkaeppchen ging in den Wald hinein."
+         << std::endl
+         << std::endl
+
     /*
      * Drittes Kapitel
      */
