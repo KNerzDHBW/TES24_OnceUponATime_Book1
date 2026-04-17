@@ -57,8 +57,7 @@ int main()
                  "Drachen die harten Schuppen am Rücken zu kratzen, die er selbst nicht erreichte." 
               << std::endl << std::endl;
     std::cout
-        << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
-           "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
+        << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
