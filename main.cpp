@@ -73,4 +73,8 @@ int main()
            "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
+   std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
+                 "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
+              << std::endl;
+
 }
