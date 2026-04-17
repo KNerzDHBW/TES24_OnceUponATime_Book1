@@ -29,6 +29,8 @@ int main()
     std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König"
               << std::endl
               << std::endl;
+   std::cout << "Leider war Lukas der Aufgabe nicht gewachsen :(" << std::endl;
+
 
     /*
      * Zweites Kapitel
