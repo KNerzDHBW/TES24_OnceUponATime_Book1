@@ -32,6 +32,10 @@ int main()
    std::cout << "Leider war Lukas der Aufgabe nicht gewachsen :(" << std::endl;
 
 
+   std::cout << "Da merkten sie aber das sie dann ja arbeiten müssten und wurden doch wieder König und Königin."
+              << std::endl
+              << std::endl;
+
     /*
      * Zweites Kapitel
      */
@@ -45,6 +49,7 @@ int main()
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
+   std::cout
         << "Das Rotkaeppchen war ziemlich klein geraten, fast so wie ein großer Zwerg."
         << std::endl
         << std::endl;
@@ -53,7 +58,7 @@ int main()
     std::cout
          << "Rotkaeppchen ging in den Wald hinein ."
          << std::endl
-         << std::endl
+         << std::endl;
 
     std::cout << "Dieses Mäntelchen war geschaffen aus der Haut des Hausdrachen der sieben Zwerge aus dem Gebirge."
               << std::endl
@@ -84,8 +89,8 @@ int main()
               << std::endl
               << std::endl; 
     std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
-   std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war.";
-         << std::endl
+   std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war."
+         << std::endl;
               
               // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
