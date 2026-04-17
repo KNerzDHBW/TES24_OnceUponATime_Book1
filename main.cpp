@@ -22,6 +22,10 @@ int main()
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
 
+    std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König"
+              << std::endl
+              << std::endl;
+
     /*
      * Zweites Kapitel
      */
