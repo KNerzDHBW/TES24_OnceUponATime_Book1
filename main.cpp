@@ -118,27 +118,27 @@ int main()
     /*
      * Viertes Kapitel
      */
-    std::cout << "Kapitel 4: Der Prinz und der Frosch" << std::endl
+   std::cout << std::endl
+              << "Kapitel 4: Der Prinz und der Frosch" << std::endl
               << std::endl;
 
-    std::cout << "Vor langer Zeit gab es einmal einen magischen See, der war so "
+   std::cout << "Vor langer Zeit gab es einmal einen magischen See, der war so "
                  "besonders, dass er nur von denjenigen gefunden werden konnte, "
-                 "von denen der See sich finden lassen wollte."
-              << std::endl;
-    std::cout << "Jeff ist ein ganz normaler Frosch." << std::endl;
-    std::cout << "Er wartete am Ufer nicht auf eine Prinzessin, sondern auf jemanden, "
-                 "der ihm endlich beibrachte, wie man vernünftig Rückenschwimmen lernt." 
-              << std::endl << std::endl;
-              << std::endl
-              << std::endl;
-              // erster Satz, neue Sätze in diesem Kapitel erst
-                            // unter diesem Satz
+                 "von denen der See sich finden lassen wollte." 
+            << std::endl; 
 
-    std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
-    std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war."
-              << std::endl;
-    std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
-    std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem" << std::endl;
+   std::cout << "Der A-Kurs Prinz war genau für diese Suche unfähig." 
+            << std::endl;
+
+   std::cout << "Der Prinz aus dem B-Kurs war perfekt geeignet für diese Suche."
+            << std::endl;
+              
+      
+   std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden, außer sie waren aus dem A Kurs."
+             << std::endl;
+
+   std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem. Er war aus dem B-Kurs" 
+            << std::endl;
 
     /*
      * Fünftes Kapitel
