@@ -80,15 +80,15 @@ int main()
                  "besonders, dass er nur von denjenigen gefunden werden konnte, "
                  "von denen der See sich finden lassen wollte."
               << std::endl
-              << std::endl; 
-    std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
-   std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war.";
-         << std::endl
-              
+              << std::endl;
               // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+
+    std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
+    std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war."
+              << std::endl;
     std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
-   std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem" << std::endl;
+    std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem" << std::endl;
 
     /*
      * Fünftes Kapitel
