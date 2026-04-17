@@ -35,6 +35,7 @@ int main()
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
+    std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." << std::endl;
 
     /*
      * Drittes Kapitel
