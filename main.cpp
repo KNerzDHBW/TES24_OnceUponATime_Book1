@@ -26,7 +26,7 @@ int main()
               << std::endl
               << std::endl; 
 
-    std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König"
+    std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König."
               << std::endl
               << std::endl;
 
