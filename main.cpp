@@ -81,6 +81,8 @@ int main()
               << std::endl
               << std::endl; 
     std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
+   std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war.";
+         << std::endl
               
               // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
@@ -102,5 +104,4 @@ int main()
    std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
                  "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
               << std::endl;
-
 }
