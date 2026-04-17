@@ -58,7 +58,10 @@ int main()
                  "besonders, dass er nur von denjenigen gefunden werden konnte, "
                  "von denen der See sich finden lassen wollte."
               << std::endl
-              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+              << std::endl; 
+    std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
+              
+              // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
 
     /*
