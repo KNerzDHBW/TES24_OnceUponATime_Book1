@@ -48,7 +48,7 @@ int main()
     std::cout << "Kapitel 2: Die sieben Zwerge und der Drachen" << std::endl
               << std::endl;
 
-    std::cout << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
+    std::cout << "Vor langer langer Zeit lebte einst ein kleines Maedchen, dass alle "
                  "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
               << std::endl;
     std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." 
