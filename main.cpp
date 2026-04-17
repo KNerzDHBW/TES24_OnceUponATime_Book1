@@ -77,6 +77,24 @@ int main()
 
     std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung, denn seine Untertanen waren sowieso schon sehr unzufrieden mit ihm und niemand den er fragte, konnte ihm helfen."
               << std::endl;
+
+    std::cout << "Eines Tages kam ein kleines Maedchen namens Marie in den Palast und bot dem Koenig ihre Hilfe an." << std::endl;
+
+    std::cout << "Marie war ein ganz normales Maedchen, aber sie hatte ein großes Problem: Sie konnte nicht schlafen, weil sie von einem bösen Traumfresserchen verfolgt wurde." << std::endl;
+
+    std::cout << "Der Koenig versprach Marie, dass er ihr helfen würde, wenn sie ihm das Geheimnis des Traumfresserchens verraten könnte." << std::endl;
+
+    std::cout << "Marie erzählte dem Koenig, dass das Traumfresserchen in Wirklichkeit ein böser Zauberer war, der die Sonne gestohlen hatte, um die Menschen in Angst und Schrecken zu versetzen." << std::endl;
+
+    std::cout << "Der Koenig war entsetzt und beschloss, das Traumfresserchen zu besiegen und die Sonne zurückzubringen." << std::endl;
+    
+    std::cout << "Mit der Hilfe von Marie und einer Gruppe mutiger Ritter machte sich der Koenig auf den Weg, um das Traumfresserchen zu besiegen." << std::endl;
+
+    std::cout << "Nach einer langen und gefährlichen Reise gelang es dem Koenig schließlich, das Traumfresserchen zu besiegen und die Sonne zurückzubringen." << std::endl;
+
+    std::cout << "Die Menschen waren überglücklich und dankbar, dass die Sonne wieder schien, und der Koenig wurde als Held gefeiert." << std::endl;
+
+    std::cout << "Marie wurde zur Beraterin des Koenigs ernannt und sie lebten glücklich und zufrieden bis ans Ende ihrer Tage." << std::endl;
     /*
      * Viertes Kapitel
      */
