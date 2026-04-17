@@ -25,6 +25,10 @@ int main()
               << "Somit wurden sie zu Bauer und Bäuerin."
               << std::endl
               << std::endl; 
+      std::cout << std::endl
+              << "Nachdem sie gemerkt haben das sie dann ja arbeiten müssten wurden sie wieder König und Königin und stellten jemanden ein der für sie arbeitete."
+              << std::endl
+              << std::endl; 
 
     /*
      * Zweites Kapitel
@@ -67,13 +71,13 @@ int main()
               << std::endl
               << std::endl; 
     std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
-   std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war.";
-         << std::endl
+    std::cout << "Der Prinz aus dem B-Kurs war nicht geeignet für diese Suche, da er nicht würdig war."
+         << std::endl;
               
               // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
     std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
-   std::cout << "Jeff ist ein ganz normaler Frosch" << std::endl;
+    std::cout << "Jeff ist ein ganz normaler Frosch" << std::endl;
 
     /*
      * Fünftes Kapitel
