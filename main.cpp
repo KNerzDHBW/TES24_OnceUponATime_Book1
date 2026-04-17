@@ -29,6 +29,8 @@ int main()
     std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König."
               << std::endl
               << std::endl;
+   std::cout << "Leider war Lukas der Aufgabe nicht gewachsen :(" << std::endl;
+
 
     /*
      * Zweites Kapitel
@@ -87,7 +89,7 @@ int main()
               
               // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
-    std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
+    std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden, außer sie waren aus dem A Kurs." << std::endl;
    std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem" << std::endl;
 
     /*
