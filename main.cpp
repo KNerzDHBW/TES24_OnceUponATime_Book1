@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+
 int main()
 {
     /*
@@ -8,23 +8,24 @@ int main()
     std::cout << std::endl
               << "Die Maerchen von TESxx" << std::endl
               << std::endl;
+
     /*
      * Erstes Kapitel
      */
-    std::cout << std::endl
-              << "Kapitel 1: Der verlorene Schatz" << std::endl
+    std::cout << "Kapitel 1: Der verlorene Schatz" << std::endl
               << std::endl;
 
     std::cout << "Vor langer Zeit, in einem fernen Königreich, gab es einen König"
+                 " und eine Königin, die sich sehnlichst wünschten, keine König und"
+                 " Königin mehr zu sein."
+              << std::endl;
+    std::cout << "Statt Kronen aus Gold träumten sie von einfachen Strohhüten und einem "
+                 "kleinen Garten, in dem niemand sie nach Steuern oder Gesetzen fragte." 
+              << std::endl << std::endl;
                  "und eine Königin, die sich sehnlichst wünschten, keine König und"
                  "Königin mehr zu sein."
               << std::endl
-              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
-                            // unter diesem Satz
-    std::cout << std::endl
-              << "Somit wurden sie zu Bauer und Bäuerin."
-              << std::endl
-              << std::endl; 
+              << std::endl;
 
     std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König."
               << std::endl
@@ -36,16 +37,26 @@ int main()
               << std::endl
               << std::endl;
 
+    std::cout << std::endl
+              << "Somit wurden sie zu Bauer und Bäuerin."
+              << std::endl
+              << std::endl; 
     /*
      * Zweites Kapitel
      */
-    std::cout << std::endl
-              << "Kapitel 2: Die sieben Zwerge und der Drachen" << std::endl
+    std::cout << "Kapitel 2: Die sieben Zwerge und der Drachen" << std::endl
               << std::endl;
 
+    std::cout << "Vor langer langer Zeit lebte einst ein kleines Maedchen, dass alle "
+                 "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
+              << std::endl;
+    std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." 
+              << std::endl;
+    std::cout << "Doch das Maedchen nutzte das Schwert nicht zum Kämpfen, sondern um dem "
+                 "Drachen die harten Schuppen am Rücken zu kratzen, die er selbst nicht erreichte." 
+              << std::endl << std::endl;
     std::cout
-        << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
-           "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
+        << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
@@ -66,17 +77,44 @@ int main()
     /*
      * Drittes Kapitel
      */
-    std::cout << std::endl
-              << "Kapitel 3: Das Traumfresserchen" << std::endl
+    std::cout << "Kapitel 3: Das Traumfresserchen" << std::endl
               << std::endl;
+
     std::cout << "Es war einmal ein Koenigreich, in dem war seit einem Jahr die "
                  "Sonne nicht mehr aufgegangen."
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+    std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung, "
+              << "denn seine Untertanen waren "
+              << std::endl 
+              << "sowieso schon sehr unzufrieden mit ihm "
+              << "und niemand den er fragte, konnte ihm helfen."
+              << std::endl;
+    std::cout << "Die Menschen begannen, ihre Träume mit bunten Laternen zu beleuchten, "
+                 "um in der ewigen Dunkelheit nicht die Hoffnung zu verlieren." 
+              << std::endl << std::endl;
 
     std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung, denn seine Untertanen waren sowieso schon sehr unzufrieden mit ihm und niemand den er fragte, konnte ihm helfen."
               << std::endl;
+
+    std::cout << "Eines Tages kam ein kleines Maedchen namens Marie in den Palast und bot dem Koenig ihre Hilfe an." << std::endl;
+
+    std::cout << "Marie war ein ganz normales Maedchen, aber sie hatte ein großes Problem: Sie konnte nicht schlafen, weil sie von einem bösen Traumfresserchen verfolgt wurde." << std::endl;
+
+    std::cout << "Der Koenig versprach Marie, dass er ihr helfen würde, wenn sie ihm das Geheimnis des Traumfresserchens verraten könnte." << std::endl;
+
+    std::cout << "Marie erzählte dem Koenig, dass das Traumfresserchen in Wirklichkeit ein böser Zauberer war, der die Sonne gestohlen hatte, um die Menschen in Angst und Schrecken zu versetzen." << std::endl;
+
+    std::cout << "Der Koenig war entsetzt und beschloss, das Traumfresserchen zu besiegen und die Sonne zurückzubringen." << std::endl;
+    
+    std::cout << "Mit der Hilfe von Marie und einer Gruppe mutiger Ritter machte sich der Koenig auf den Weg, um das Traumfresserchen zu besiegen." << std::endl;
+
+    std::cout << "Nach einer langen und gefährlichen Reise gelang es dem Koenig schließlich, das Traumfresserchen zu besiegen und die Sonne zurückzubringen." << std::endl;
+
+    std::cout << "Die Menschen waren überglücklich und dankbar, dass die Sonne wieder schien, und der Koenig wurde als Held gefeiert." << std::endl;
+
+    std::cout << "Marie wurde zur Beraterin des Koenigs ernannt und sie lebten glücklich und zufrieden bis ans Ende ihrer Tage." << std::endl;
     /*
      * Viertes Kapitel
      */
@@ -99,16 +137,27 @@ int main()
    std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden, außer sie waren aus dem A Kurs."
              << std::endl;
 
-   std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem. Er war aus dem A-Kurs" 
+   std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem. Er war aus dem B-Kurs" 
             << std::endl;
 
     /*
      * Fünftes Kapitel
      */
-    std::cout << std::endl
-              << "Kapitel 5: Die Maus, der Vogel und die Bratwurst" << std::endl
+    std::cout << "Kapitel 5: Die Maus, der Vogel und die Bratwurst" << std::endl
               << std::endl;
 
+    std::cout << "Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten "
+                 "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
+              << std::endl;
+    std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
+                 "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
+              << std::endl;
+    std::cout << "Deshalb baute der Vogel aus alten Blechdosen einen Schattenplatz, "
+                 "während die Maus die Bratwurst regelmäßig mit kühlem Öl einrieb." 
+              << std::endl;
+
+    return 0;
+}
     std::cout
         << "Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten "
            "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
@@ -118,8 +167,8 @@ int main()
     std::cout
         << "Die Maus dachte die Bratwurst wäre eine Sucuk." << std::endl;
   
-   std::cout
-          << "Sie waren beste Freunde und verbrachten ihre Tage damit, Abenteuer zu erleben und die Welt um sie herum zu erkunden."
+    std::cout
+        << "Sie waren beste Freunde und verbrachten ihre Tage damit, Abenteuer zu erleben und die Welt um sie herum zu erkunden."
         << std::endl;
   
    std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
