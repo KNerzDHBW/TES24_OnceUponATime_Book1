@@ -21,6 +21,14 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+    std::cout << std::endl
+              << "Somit wurden sie zu Bauer und Bäuerin."
+              << std::endl
+              << std::endl; 
+
+    std::cout << "Sie waren der Meinung Lukas Armbruster wäre ein besserer König"
+              << std::endl
+              << std::endl;
 
     /*
      * Zweites Kapitel
@@ -35,7 +43,9 @@ int main()
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
-
+    std::cout << "Dieses Mäntelchen war geschaffen aus der Haut des Hausdrachen der sieben Zwerge aus dem Gebirge."
+              << std::endl
+              << std::endl;
     /*
      * Drittes Kapitel
      */
@@ -47,7 +57,8 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
-
+    std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung, denn seine Untertanen waren sowieso schon sehr unzufrieden mit ihm."
+              << std::endl;
     /*
      * Viertes Kapitel
      */
@@ -58,8 +69,13 @@ int main()
                  "besonders, dass er nur von denjenigen gefunden werden konnte, "
                  "von denen der See sich finden lassen wollte."
               << std::endl
-              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+              << std::endl; 
+    std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
+              
+              // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+    std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
+   std::cout << "Jeff ist ein ganz normaler Frosch, aber er hatte ein großes Problem" << std::endl;
 
     /*
      * Fünftes Kapitel
@@ -76,4 +92,9 @@ int main()
 
     std::cout
         << "Die Maus dachte die Bratwurst wäre eine Sucuk." << std::endl;
+  
+   std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
+                 "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
+              << std::endl;
+
 }
