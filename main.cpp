@@ -83,6 +83,14 @@ int main()
 
     std::cout << "Es war einmal ein Koenigreich, in dem war seit einem Jahr die "
                  "Sonne nicht mehr aufgegangen."
+              << std::endl
+              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+                            // unter diesem Satz
+    std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung, "
+              << "denn seine Untertanen waren "
+              << std::endl 
+              << "sowieso schon sehr unzufrieden mit ihm "
+              << "und niemand den er fragte, konnte ihm helfen."
               << std::endl;
     std::cout << "Die Menschen begannen, ihre Träume mit bunten Laternen zu beleuchten, "
                  "um in der ewigen Dunkelheit nicht die Hoffnung zu verlieren." 
