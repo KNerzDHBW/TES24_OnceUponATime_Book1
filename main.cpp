@@ -21,6 +21,10 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+    std::cout << std::endl
+              << "Somit wurden sie zu Bauer und Bäuerin."
+              << std::endl
+              << std::endl; 
 
     /*
      * Zweites Kapitel
