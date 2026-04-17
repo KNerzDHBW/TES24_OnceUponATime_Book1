@@ -60,6 +60,7 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+   std::cout << "Jeff ist ein ganz normaler Frosch" << std::endl
 
     /*
      * Fünftes Kapitel
