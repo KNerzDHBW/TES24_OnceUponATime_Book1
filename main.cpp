@@ -58,7 +58,9 @@ int main()
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
     std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung, "
-              << "denn seine Untertanen waren sowieso schon sehr unzufrieden mit ihm "
+              << "denn seine Untertanen waren "
+              << std::endl 
+              << "sowieso schon sehr unzufrieden mit ihm "
               << "und niemand den er fragte, konnte ihm helfen."
               << std::endl;
     /*
