@@ -61,6 +61,7 @@ int main()
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
     std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
+   std::cout << "Jeff ist ein ganz normaler Frosch" << std::endl
 
     /*
      * Fünftes Kapitel
@@ -74,4 +75,8 @@ int main()
            "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
+   
+     std::cout
+        << "Sie waren beste Freunde und verbrachten ihre Tage damit, Abenteuer zu erleben und die Welt um sie herum zu erkunden."
+        << std::endl;
 }
