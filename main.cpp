@@ -21,6 +21,10 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+    std::cout << std::endl
+              << "Somit wurden sie zu Bauer und Bäuerin."
+              << std::endl
+              << std::endl; 
 
     /*
      * Zweites Kapitel
@@ -38,6 +42,12 @@ int main()
         << "Das Rotkaeppchen war ziemlich klein geraten, fast so wie ein großer Zwerg."
         << std::endl
         << std::endl;
+    std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." << std::endl;
+
+    std::cout
+         << "Rotkaeppchen ging in den Wald hinein."
+         << std::endl
+         << std::endl
 
     /*
      * Drittes Kapitel
@@ -50,7 +60,8 @@ int main()
               << std::endl
               << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
-
+    std::cout << "Der Koenig war verzweifelt auf der Suche nach einer Loesung."
+              << std::endl;
     /*
      * Viertes Kapitel
      */
@@ -61,8 +72,13 @@ int main()
                  "besonders, dass er nur von denjenigen gefunden werden konnte, "
                  "von denen der See sich finden lassen wollte."
               << std::endl
-              << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+              << std::endl; 
+    std::cout << "Der A-Kurs Prinz war genau für diese Suche bestimmt." << std::endl;
+              
+              // erster Satz, neue Sätze in diesem Kapitel erst
                             // unter diesem Satz
+    std::cout << "Jedoch war es allen Studenten des TES24 Studiengangs ebenso möglich diesen magischen See zu finden." << std::endl;
+   std::cout << "Jeff ist ein ganz normaler Frosch" << std::endl
 
     /*
      * Fünftes Kapitel
@@ -76,4 +92,8 @@ int main()
            "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                       // unter diesem Satz
+   std::cout << "Ihre größte Herausforderung war nicht der Hunger, sondern die "
+                 "Tatsache, dass die Bratwurst ständig Angst hatte, beim Sonnenbaden zu platzen."
+              << std::endl;
+
 }
