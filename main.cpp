@@ -40,12 +40,11 @@ int main()
               << std::endl;
 
     std::cout
-        << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
-           "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
+        << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
         << std::endl
         << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                       // diesem Satz
-        << "Das Rotkaeppchen war ziemlich klein geraten, fast so wie ein großer Zwerg."
+        std::cout << "Das Rotkaeppchen war ziemlich klein geraten, fast so wie ein großer Zwerg."
         << std::endl
         << std::endl;
     std::cout << "Die Zwerge schmiedeten in der Hitze des Vulkans eine unzerstoerbare Klinge für das Maedchen." << std::endl;
@@ -53,7 +52,7 @@ int main()
     std::cout
          << "Rotkaeppchen ging in den Wald hinein ."
          << std::endl
-         << std::endl
+         << std::endl;
 
     std::cout << "Dieses Mäntelchen war geschaffen aus der Haut des Hausdrachen der sieben Zwerge aus dem Gebirge."
               << std::endl
